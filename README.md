@@ -1,6 +1,6 @@
 # Description
 
-This project was bootstraped with [Nest JS](https://nestjs.com/)
+This project was bootstraped with [Crete React App](https://create-react-app.dev/)
 ## Installation
 ---
 Once you have the project clonned successfully go inside `/containerized-frontend` run the following command
@@ -16,3 +16,9 @@ For starting the app in a development environment inside `/containerized-fronten
 ```bash
 $ npm run start:dev
 ```
+</br>
+<footer style="font-family: Helvetica">
+<h3>
+Repository maintained by David Tissera - https://www.github.com/davidtissera
+</h3>
+</footer>
